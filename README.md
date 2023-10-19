@@ -3,4 +3,4 @@ Repositório para matéria de Abex 2 do curso de C.C. na universidade Unochapec�
 ## DESCRIÇÃO
 Este repositório contém todos os materiais e projetos relacionados ao projeto de software da disciplina ABEXII.
 ## Integrantes do Grupo: 
-Eduardo Bee, João Ampeze, João Chiarello, Paulo Heinrich, Maurício Vanzella
+Eduardo Bee, João Ampeze, João Chiarello, Paulo Henrich, Maurício Vanzella
